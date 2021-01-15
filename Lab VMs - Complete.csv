@@ -1,0 +1,13 @@
+VMName, SourceVHD, VHDLoc,Generation, Ram, MemoryType, Network, Differencing/Copy
+"LON-DC1","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"LON-ADM1","E:\Base VHD\W10_2004 - RO.vhdx","E:\VHD",2,"4GB",Dynamic,"C6M1",Copy
+"LON-SVR1","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"LON-SVR2","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"LON-SVR3","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"LON-SVR4","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"LON-RTR","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"TOR-DC1","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"RF-DC1","E:\Base VHD\Server_2016_Core with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"BV-DC1","E:\Base VHD\Server_2016_Core with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"BF-DC1","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"CA-SVR1","E:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"2GB",Dynamic,"C6M1",Copy

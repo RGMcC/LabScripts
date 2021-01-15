@@ -1,0 +1,5 @@
+VMName, SourceVHD, VHDLoc,Generation, Ram, MemoryType, Network, Differencing/Copy
+"LON-SVR1","P:\Base VHD\Server_2016_DE with unattend - RO.vhdx","D:\VHD",2,"8GB",Static,"C6M1",Copy
+"LON-SVR2","P:\Base VHD\Server_2016_DE with unattend - RO.vhdx","E:\VHD",2,"8GB",Static,"C6M1",Copy
+"LON-SVR3","P:\Base VHD\Server_2016_DE with unattend - RO.vhdx","F:\VHD",2,"2GB",Dynamic,"C6M1",Copy
+"LON-SVR4","P:\Base VHD\Server_2016_DE with unattend - RO.vhdx","D:\VHD",2,"2GB",Dynamic,"C6M1",Copy
